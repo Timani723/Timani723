@@ -1,7 +1,6 @@
  👋Hi, I'm Timani Abubakar
+ 
   Full-stack-web-developer focused on building modern, clean and user-friendly applications.
-
-Here are some ideas to get you started:
 
  🔥 What I'm Working On
   A collection of full-stack projects that showcase real-world features and clean UI.
