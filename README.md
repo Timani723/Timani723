@@ -24,7 +24,7 @@
   
  📫 How to reach me
  
-  •timaa.works@outlook.com
+  •Email:timaa.works@outlook.com
   
   •Linkedln:https://www.linkedin.com/in/timaniabubakar
   
